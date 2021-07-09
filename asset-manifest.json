@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myaniquotes/static/css/main.790b1ff2.chunk.css",
+    "main.js": "/myaniquotes/static/js/main.d04668df.chunk.js",
+    "main.js.map": "/myaniquotes/static/js/main.d04668df.chunk.js.map",
+    "runtime-main.js": "/myaniquotes/static/js/runtime-main.109e4fa9.js",
+    "runtime-main.js.map": "/myaniquotes/static/js/runtime-main.109e4fa9.js.map",
+    "static/js/2.bbc16c03.chunk.js": "/myaniquotes/static/js/2.bbc16c03.chunk.js",
+    "static/js/2.bbc16c03.chunk.js.map": "/myaniquotes/static/js/2.bbc16c03.chunk.js.map",
+    "static/js/3.e78a5daf.chunk.js": "/myaniquotes/static/js/3.e78a5daf.chunk.js",
+    "static/js/3.e78a5daf.chunk.js.map": "/myaniquotes/static/js/3.e78a5daf.chunk.js.map",
+    "index.html": "/myaniquotes/index.html",
+    "static/css/main.790b1ff2.chunk.css.map": "/myaniquotes/static/css/main.790b1ff2.chunk.css.map",
+    "static/js/2.bbc16c03.chunk.js.LICENSE.txt": "/myaniquotes/static/js/2.bbc16c03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.109e4fa9.js",
+    "static/js/2.bbc16c03.chunk.js",
+    "static/css/main.790b1ff2.chunk.css",
+    "static/js/main.d04668df.chunk.js"
+  ]
+}
